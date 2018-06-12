@@ -1,0 +1,11 @@
+CSV text has been written to file : Schlib1.csv
+
+Library Component Count : 4
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+74HC04              
+D-IN                
+DS12C887            
+OLED                
