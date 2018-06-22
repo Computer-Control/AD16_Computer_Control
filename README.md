@@ -4,9 +4,12 @@
 
 ![logo](img/COMPUTER_STM32.PNG)
 
-### 8路数字量输入输出
+### 8路数字量输出
 
 ![logo](img/digital_signal_8_in.PNG)
+
+### 8路数字量输出
+
 ![logo](img/digital_signal_8_OUT.PNG)
 
 ### 液晶显示程序
